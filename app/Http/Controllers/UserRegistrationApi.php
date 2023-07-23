@@ -30,6 +30,4 @@ class UserRegistrationApi extends Controller
      }
     }
  
- 
- 
 }
